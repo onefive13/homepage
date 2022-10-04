@@ -332,7 +332,7 @@ Windowsでの「新しいフォルダの作成」と同じです。
 ### Linuxのコマンドについてより詳しくなりたい
 
 ```eval_rst
-:doc:`/linux/linuxcommand`
+:doc:`/LINUX/linuxcommand`
 ```
 
 ### vi(テキストエディタ)の使い方を知りたい
@@ -340,6 +340,6 @@ Windowsでの「新しいフォルダの作成」と同じです。
 プログラムを書くためのWordみたいなもの。
 
 ```eval_rst
-:doc:`/linux/vim_0`
+:doc:`/LINUX/vim_0`
 ```
 

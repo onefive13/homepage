@@ -10,11 +10,11 @@ Welcome to bros.'s documentation!
    :maxdepth: 1
    :caption: Linux
 
-   ./linux/linux1
-   ./linux/linuxq1
-   ./linux/linuxcommand
-   ./linux/vim_0
-   ./linux/ssh
+   ./LINUX/linux1
+   ./LINUX/linuxq1
+   ./LINUX/linuxcommand
+   ./LINUX/vim_0
+   ./LINUX/ssh
 
 .. toctree::
    :maxdepth: 1
